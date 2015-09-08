@@ -1,0 +1,28 @@
+//
+//  BaseProject.pch
+//  BaseProject
+//
+//  Created by Guicai_Li on 15/8/7.
+//  Copyright (c) 2015年 Guicai_Li. All rights reserved.
+//
+
+#ifndef BaseProject_BaseProject_pch
+#define BaseProject_BaseProject_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import <DDLog.h>
+#import <DDTTYLogger.h>
+#import <TMCache.h>
+#import <MobClick.h>
+#import <SVProgressHUD.h>
+#import <WebViewJavascriptBridge.h>
+
+#import "AppMacro.h"
+#import "AppDelegate.h"
+#import "UIButton+Block.h"
+#import "FileManagerUtils.h"
+#import "TimeUtils.h"
+
+#endif
